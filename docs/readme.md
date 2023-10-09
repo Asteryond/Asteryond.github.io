@@ -1,7 +1,11 @@
-# Study Plan
+# Improve
 
 ## Calculus
 
 ### Books
 
-[Calculus_ Early Transcendentals Ninth Edition](/books/Calculus_Early_Transcendentals_Ninth_Edition.pdf#page=36)
+- Calculus Early Transcendentals Ninth Edition
+
+|Page|Time|
+|----|----|
+|36|2023-10-9 23:06|
