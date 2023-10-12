@@ -197,3 +197,10 @@ namespace Observer
 
 
 ```
+
+## 安装/卸载服务
+
+```bash
+ installutil 
+installutil /u
+```
